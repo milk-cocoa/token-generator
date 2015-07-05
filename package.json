@@ -1,0 +1,11 @@
+{
+  "name": "milkcocoa-token-generator",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "jsonwebtoken": "*"
+  }
+}
